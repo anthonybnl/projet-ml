@@ -28,3 +28,6 @@ Dataset : https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dat
 - Poids : outliers
 - FCVC : discrétisation
 - NCP : discrétisation
+- CH2O : discrétisation
+- FAF : discrétisation
+- TUE : discrétisation
