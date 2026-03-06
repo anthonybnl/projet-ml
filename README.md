@@ -22,7 +22,7 @@ Dataset : https://www.kaggle.com/datasets/adeniranstephen/obesity-prediction-dat
 - MTRANS – Main mode of transportation (Automobile, Bike, Motorbike, Public Transportation, Walking).
 - NObeyesdad – Obesity level (Insufficient Weight, Normal Weight, Overweight Level I, Overweight Level II, Obesity Type I, Obesity Type II, Obesity Type III).
 
-## TODO
+## Processing des données
 
 - Age : outliers
 - Poids : outliers
